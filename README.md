@@ -1,5 +1,5 @@
 # zeezerwatch
-Overwatch stats site that connects to Lootbox api and displays in sortable jquery table.
+Overwatch stats site that connects to Lootbox api and displays in sortable jQuery table.
 
 
 Resources:
